@@ -100,7 +100,7 @@ The project combines **Machine Learning**, **Natural Language Processing**, and 
 
 ---
 
-## 📁 History Management
+📁 History Management
 
 - Save Predictions
 - Delete Prediction
@@ -111,7 +111,7 @@ The project combines **Machine Learning**, **Natural Language Processing**, and 
 
 ---
 
-## 🔒 Security
+🔒 Security
 
 - Input Validation
 - Secure API
@@ -121,7 +121,7 @@ The project combines **Machine Learning**, **Natural Language Processing**, and 
 
 ---
 
-# 🏗️ Project Architecture
+🏗️ Project Architecture
 
 ```
                     User
