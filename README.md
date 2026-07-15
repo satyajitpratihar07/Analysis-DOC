@@ -1,11 +1,10 @@
 <div align="center">
-# 💬 SentiScope AI
+💬 SentiScope AI
 🚀 Intelligent Sentiment Analysis Platform
 
 <p align="center">
 AI-powered sentiment analysis system that understands emotions from text using Machine Learning and Natural Language Processing (NLP).
 </p>
-
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,7 +27,7 @@ AI-powered sentiment analysis system that understands emotions from text using M
 
 </div>
 
-# 📖 Overview
+📖 Overview
 
 **SentiScope AI** is a modern Machine Learning based Sentiment Analysis platform capable of detecting emotions from any text input.
 
@@ -42,9 +41,9 @@ The project combines **Machine Learning**, **Natural Language Processing**, and 
 
 ---
 
-# ✨ Features
+✨ Features
 
-## 🤖 AI & Machine Learning
+🤖 AI & Machine Learning
 
 - Text Sentiment Prediction
 - Positive / Negative / Neutral Detection
@@ -57,7 +56,7 @@ The project combines **Machine Learning**, **Natural Language Processing**, and 
 
 ---
 
-## 🧠 NLP Pipeline
+🧠 NLP Pipeline
 
 - Lowercase Conversion
 - Tokenization
