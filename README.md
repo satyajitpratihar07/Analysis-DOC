@@ -233,7 +233,7 @@ SentiScope-AI/
 
 ---
 
-# 📈 Machine Learning Workflow
+📈 Machine Learning Workflow
 
 ```
 Dataset
@@ -298,7 +298,7 @@ Response
 
 ---
 
-## History
+History
 
 ```
 GET /history
@@ -306,7 +306,7 @@ GET /history
 
 ---
 
-## Statistics
+Statistics
 
 ```
 GET /statistics
