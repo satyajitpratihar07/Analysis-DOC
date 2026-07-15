@@ -70,7 +70,7 @@ The project combines **Machine Learning**, **Natural Language Processing**, and 
 
 ---
 
-## 📊 Analytics Dashboard
+📊 Analytics Dashboard
 
 - Total Predictions
 - Positive Count
@@ -85,7 +85,7 @@ The project combines **Machine Learning**, **Natural Language Processing**, and 
 
 ---
 
-## 🌐 Web Application
+🌐 Web Application
 
 - Responsive Design
 - Glassmorphism UI
