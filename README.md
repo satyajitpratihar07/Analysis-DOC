@@ -153,7 +153,7 @@ The project combines **Machine Learning**, **Natural Language Processing**, and 
 
 # ⚙️ Tech Stack
 
-## Frontend
+Frontend
 
 - React
 - Vite
@@ -166,7 +166,7 @@ The project combines **Machine Learning**, **Natural Language Processing**, and 
 
 ---
 
-## Backend
+Backend
 
 - Python
 - Flask
@@ -175,7 +175,7 @@ The project combines **Machine Learning**, **Natural Language Processing**, and 
 
 ---
 
-## Machine Learning
+Machine Learning
 
 - Scikit-Learn
 - Pandas
@@ -205,7 +205,7 @@ or
 
 ---
 
-# 📂 Folder Structure
+📂 Folder Structure
 
 ```
 SentiScope-AI/
