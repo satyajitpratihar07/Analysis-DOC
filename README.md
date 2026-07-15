@@ -20,7 +20,6 @@ AI-powered sentiment analysis system that understands emotions from text using M
 <p align="center">
 
 ⭐ Machine Learning • NLP • Interactive Dashboard • Modern UI ⭐
-
 </p>
 
 ---
