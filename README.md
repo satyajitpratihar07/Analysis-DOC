@@ -187,7 +187,7 @@ Machine Learning
 
 ---
 
-## Models
+Models
 
 - Logistic Regression
 - Naive Bayes
@@ -195,7 +195,7 @@ Machine Learning
 
 ---
 
-## Database
+Database
 
 - SQLite
 
