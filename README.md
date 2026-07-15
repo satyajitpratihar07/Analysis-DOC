@@ -314,7 +314,7 @@ GET /statistics
 
 ---
 
-## Delete History
+Delete History
 
 ```
 DELETE /history
@@ -322,7 +322,7 @@ DELETE /history
 
 ---
 
-# 📊 Dashboard Includes
+📊 Dashboard Includes
 
 ✅ Total Predictions
 
@@ -342,7 +342,7 @@ DELETE /history
 
 ---
 
-# 🎯 Future Improvements
+🎯 Future Improvements
 
 - Deep Learning Model
 - BERT Integration
@@ -358,7 +358,7 @@ DELETE /history
 
 ---
 
-# 📸 Screenshots
+📸 Screenshots
 
 ```
 📷 Home Page
@@ -395,10 +395,9 @@ DELETE /history
 ```
 
 ---
+ 🚀 Installation
 
-# 🚀 Installation
-
-## Clone Repository
+ Clone Repository
 
 ```bash
 git clone https://github.com/yourusername/SentiScope-AI.git
@@ -430,7 +429,7 @@ npm run dev
 
 ---
 
-# 🎓 Educational Purpose
+🎓 Educational Purpose
 
 This project demonstrates practical implementation of
 
@@ -452,7 +451,7 @@ making it ideal for:
 
 ---
 
-# 👨‍💻 Developed By
+👨‍💻 Developed By
 
 **Satyajit Pratihar**
 
