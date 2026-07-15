@@ -406,7 +406,7 @@ git clone https://github.com/yourusername/SentiScope-AI.git
 
 ---
 
-## Backend
+Backend
 
 ```bash
 cd backend
@@ -418,7 +418,7 @@ python app.py
 
 ---
 
-## Frontend
+Frontend
 
 ```bash
 cd frontend
