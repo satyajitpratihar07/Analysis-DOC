@@ -1,7 +1,6 @@
 <div align="center">
-
 # 💬 SentiScope AI
-### 🚀 Intelligent Sentiment Analysis Platform
+🚀 Intelligent Sentiment Analysis Platform
 
 <p align="center">
 AI-powered sentiment analysis system that understands emotions from text using Machine Learning and Natural Language Processing (NLP).
