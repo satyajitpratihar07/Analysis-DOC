@@ -452,7 +452,7 @@ making it ideal for:
 
 👨‍💻 Developed By
 
-**Satyajit Pratihar**
+❤️Satyajit Pratihar❤️
 
 > *"Transforming human emotions into meaningful insights through Artificial Intelligence."*
 
