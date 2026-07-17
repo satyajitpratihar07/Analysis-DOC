@@ -150,7 +150,7 @@ The project combines **Machine Learning**, **Natural Language Processing**, and 
 
 ---
 
-# ⚙️ Tech Stack
+⚙️ Tech Stack
 
 Frontend
 
