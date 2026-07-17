@@ -28,7 +28,7 @@ AI-powered sentiment analysis system that understands emotions from text using M
 
 📖 Overview
 
-**SentiScope AI** is a modern Machine Learning based Sentiment Analysis platform capable of detecting emotions from any text input.
+SentiScope AI✨ is a modern Machine Learning based Sentiment Analysis platform capable of detecting emotions from any text input.
 
 The application processes text through an NLP pipeline, transforms it using TF-IDF vectorization, and predicts whether the sentiment is:
 
