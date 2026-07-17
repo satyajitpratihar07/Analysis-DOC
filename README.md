@@ -270,9 +270,9 @@ Prediction API
 
 ---
 
-# 🌐 REST API
+🌐 REST API
 
-## Predict Sentiment
+✨Predict Sentiment
 
 ```
 POST /predict
